@@ -1,0 +1,20 @@
+color scheme
+
+blue main - #5AAADE
+blue dark - #2685BF
+blue light - #52D5F2
+green -  #8CBF3F
+black - #0D0D0D
+
+
+competition:
+medclouddepot
+
+
+subscriptions to check:
+start bootstrap forms
+adobe stock
+
+
+template:
+https://startbootstrap.com/theme/agency
